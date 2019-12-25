@@ -1,15 +1,28 @@
-A Capsule Network for Recommendation and Explaining What You Like and Dislike
-dacemirror.sci-hub.tw/proceedings-article/dec1d691a7b3f4a1e66431404d2d0057/li2019.pdf#view=FitHUnified Collaborative Filtering over Graph Embeddings
-dacemirror.sci-hub.tw/proceedings-article/5b4c5c9bde13c18d4b029c4baa2b596a/wang2019.pdf#view=FitHTransparent, Scrutable and Explainable User Models for Personalized Recommendation
-dacemirror.sci-hub.tw/proceedings-article/babb797aea9d0dd441137a53852dd69f/balog2019.pdf#view=FitHInterpretable Fashion Matching with Rich Attributes
-dacemirror.sci-hub.tw/proceedings-article/8cbd9316f509196415da6730e0708c3d/yang2019.pdf#view=FitHAdversarial Mahalanobis Distance-based Attentive Song Recommender for Automatic Playlist Continuation
-dacemirror.sci-hub.tw/proceedings-article/65f8b7089057e71569deddf6b4abb86e/tran2019.pdf#view=FitHA Collaborative Session-based Recommendation Approach with Parallel Memory Modules
-dacemirror.sci-hub.tw/proceedings-article/a1a48240b2d67995e4ce43afcc07dbcd/wang2019.pdf#view=FitHBayesian Personalized Feature Interaction Selection for Factorization Machines
-dacemirror.sci-hub.tw/proceedings-article/f5e367c70fff9799c7e358eab4847f53/chen2019.pdf#view=FitHMention Recommendation in Twitter with Cooperative Multi-Agent Reinforcement Learning
-dacemirror.sci-hub.tw/proceedings-article/fd7ae83751d48bf91f687cf4b8c5cb33/gui2019.pdf#view=FitHAn Efficient Adaptive Transfer Neural Network for Social-aware Recommendation
-dacemirror.sci-hub.tw/proceedings-article/cf9240d6e18bddcbb65ab2b0a99ade64/chen2019.pdf#view=FitHPersonalized Fashion Recommendation with Visual Explanations based on Multimodal Attention Network
-dacemirror.sci-hub.tw/proceedings-article/95ad7bc56707ccd0f66be22ab6b11d86/chen2019.pdf#view=FitHNeural Graph Collaborative Filtering
-dacemirror.sci-hub.tw/proceedings-article/466b61156dec39e8942ceb7404eb34e6/wang2019.pdf#view=FitHA Neural Influence Diffusion Model for Social Recommendation
-dacemirror.sci-hub.tw/proceedings-article/f81cf34f84037458d300e2275f1a2384/wu2019.pdf#view=FitHNoise Contrastive Estimation for One-Class Collaborative Filtering
-dacemirror.sci-hub.tw/proceedings-article/4d3431485dc4adb72d8180e244424504/wu2019.pdf#view=FitHReinforcement Knowledge Graph Reasoning for Explainable Recommendation
+Transparent, Scrutable and Explainable User Models for Personalized Recommendation
+dacemirror.sci-hub.tw/proceedings-article/babb797aea9d0dd441137a53852dd69f/balog2019.pdf#view=FitH
+A Neural Influence Diffusion Model for Social Recommendation
+dacemirror.sci-hub.tw/proceedings-article/f81cf34f84037458d300e2275f1a2384/wu2019.pdf#view=FitH
+Interpretable Fashion Matching with Rich Attributes
+dacemirror.sci-hub.tw/proceedings-article/8cbd9316f509196415da6730e0708c3d/yang2019.pdf#view=FitH
+Reinforcement Knowledge Graph Reasoning for Explainable Recommendation
 dacemirror.sci-hub.tw/proceedings-article/2d0578af1e27fc7795e0bf09121db9e4/xian2019.pdf#view=FitH
+A Capsule Network for Recommendation and Explaining What You Like and Dislike
+dacemirror.sci-hub.tw/proceedings-article/dec1d691a7b3f4a1e66431404d2d0057/li2019.pdf#view=FitH
+Personalized Fashion Recommendation with Visual Explanations based on Multimodal Attention Network
+dacemirror.sci-hub.tw/proceedings-article/95ad7bc56707ccd0f66be22ab6b11d86/chen2019.pdf#view=FitH
+Unified Collaborative Filtering over Graph Embeddings
+dacemirror.sci-hub.tw/proceedings-article/5b4c5c9bde13c18d4b029c4baa2b596a/wang2019.pdf#view=FitH
+A Collaborative Session-based Recommendation Approach with Parallel Memory Modules
+dacemirror.sci-hub.tw/proceedings-article/a1a48240b2d67995e4ce43afcc07dbcd/wang2019.pdf#view=FitH
+Bayesian Personalized Feature Interaction Selection for Factorization Machines
+dacemirror.sci-hub.tw/proceedings-article/f5e367c70fff9799c7e358eab4847f53/chen2019.pdf#view=FitH
+Mention Recommendation in Twitter with Cooperative Multi-Agent Reinforcement Learning
+dacemirror.sci-hub.tw/proceedings-article/fd7ae83751d48bf91f687cf4b8c5cb33/gui2019.pdf#view=FitH
+Adversarial Mahalanobis Distance-based Attentive Song Recommender for Automatic Playlist Continuation
+dacemirror.sci-hub.tw/proceedings-article/65f8b7089057e71569deddf6b4abb86e/tran2019.pdf#view=FitH
+An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation
+dacemirror.sci-hub.tw/proceedings-article/cf9240d6e18bddcbb65ab2b0a99ade64/chen2019.pdf#view=FitH
+Neural Graph Collaborative Filtering
+dacemirror.sci-hub.tw/proceedings-article/466b61156dec39e8942ceb7404eb34e6/wang2019.pdf#view=FitH
+Noise Contrastive Estimation for One-Class Collaborative Filtering
+dacemirror.sci-hub.tw/proceedings-article/4d3431485dc4adb72d8180e244424504/wu2019.pdf#view=FitH

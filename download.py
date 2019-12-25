@@ -38,6 +38,7 @@ def fetch(title, output):
         if result[0][:2] == '//':
             result[0] = result[0][2:]
         output.writelines([title, result[0]])
+        output.write('\n')
         print('link found for ' + title)
     else:
         print('no result for ' + title)
