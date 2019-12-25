@@ -1,4 +1,4 @@
-Long Paper 36篇
+* Long Paper 36篇
 
 A Comparison of Calibrated and Intent-Aware Recommendations
 A Deep Learning System for Predicting Size and Fit in Fashion E-Commerce
@@ -37,7 +37,7 @@ Users in the Loop: A Psychologically-Informed Approach to Similar Item Retrieval
 Variational Low Rank Multinomials for Collaborative Filtering with Side-Information
 When Actions Speak Louder than Clicks: A Combined Model of Purchase Probability and Long-term Customer Satisfaction
 
-Short Papers 40篇
+* Short Papers 40篇
 
 A Generative Model for Review-Based Recommendations 
 A Simple Multi-Armed Nearest-Neighbor Bandit for Interactive Recommendation
