@@ -1,0 +1,84 @@
+Long Paper 36篇
+
+A Comparison of Calibrated and Intent-Aware Recommendations
+A Deep Learning System for Predicting Size and Fit in Fashion E-Commerce
+A Pareto-Efficient Algorithm for Multiple Objective Optimization in E-Commerce Recommendation
+A Recommender System for Heterogeneous and Time Sensitive Environment
+Addressing Delayed Feedback for Continuous Training with Neural Networks in CTR prediction
+Adversarial Attacks on an Oblivious Recommender
+Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches
+Attribute-Aware Non-Linear Co-Embeddings of Graph Features
+CB2CF: A Neural Multiview Content-to-Collaborative Filtering Model for Completely Cold Item Recommendations
+Collective Embedding for Neural Context-Aware Recommender Systems
+Deep Generative Ranking for Personalized Recommendation
+Deep Language-based Critiquing for Recommender Systems
+Deep Social Collaborative Filtering
+Designing for the Better by Taking Users into Account: A Qualitative Evaluation of User Control Mechanisms in (News) Recommender Systems
+Domain Adaptation in Display Advertising: An Application for Partner Cold-Start
+Efficient Privacy-Preserving Recommendations based on Social Graphs
+Efficient Similarity Computation for Collaborative Filtering in Dynamic Environments
+Explaining and Exploring Job Recommendations: a User-driven Approach for Interacting with Knowledge-based Job Recommender Systems
+FiBiNET: Combining Feature Importance and Bilinear feature Interaction for Click-Through Rate Prediction
+HybridSVD: When Collaborative Information is Not Enough
+Latent Factor Models and Aggregation Operators for Collaborative Filtering in Reciprocal Recommender Systems
+Leveraging Post-click Feedback for Content Recommendations
+LORE: A Large-Scale Offer Recommendation Engine with Eligibility and Capacity Constraints
+Online Learning to Rank for Sequential Music Recommendation
+Online Ranking Combination
+Personalized Diffusions for Top-N Recommendation
+Personalized Re-ranking for Recommendation
+PrivateJobMatch: A Privacy-Oriented Deferred Multi-Match Recommender System for Stable Employment
+Recommending What Video to Watch Next: A Multitask Ranking System
+Relaxed Softmax for PU Learning
+Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations
+Style Conditioned Recommendations
+Uplift-based Evaluation and Optimization of Recommenders
+Users in the Loop: A Psychologically-Informed Approach to Similar Item Retrieval
+Variational Low Rank Multinomials for Collaborative Filtering with Side-Information
+When Actions Speak Louder than Clicks: A Combined Model of Purchase Probability and Long-term Customer Satisfaction
+
+Short Papers 40篇
+
+A Generative Model for Review-Based Recommendations 
+A Simple Multi-Armed Nearest-Neighbor Bandit for Interactive Recommendation
+Adversarial Tensor Factorization for Context-aware Recommendation
+Aligning Daily Activities with Personality: Towards A Recommender System for Improving Wellbeing 
+Asymmetric Bayesian Personalized Ranking for One-Class Collaborative Filtering
+Attribute-based Evaluation for Recommender Systems: Incorporating User and Item Attributes in Evaluation Metrics
+Combining Text Summarization and Aspect-based Sentiment Analysis of Users’ Reviews to Justify Recommendations
+Compositional Network Embedding for Link Prediction
+Data Mining for Item Recommendation in MOBA Games
+DualDiv: Diversifying Items and Explanation Styles in Explainable Hybrid Recommendation
+Enhancing VAEs for Collaborative Filtering: Flexible Priors & Gating Mechanisms
+Find My Next Job Labor Market Recommendations Using Administrative Big Data
+From Preference into Decision Making: Modeling User Interactions in Recommender Systems
+Ghosting: Contextualized Inline Query Completion in Large Scale Retail Search
+Greedy Optimized Multileaving for Personalization
+Guiding Creative Design in Online Advertising
+How Can They Know That? A Study of Factors Affecting the Creepiness of Recommendations
+Latent Multi-Criteria Ratings for Recommendations
+Multi-Armed Recommender System Bandit Ensembles
+Music Recommendations in Hyperbolic Space: An Application of Empirical Bayes and Hierarchical Poincaré Embeddings
+On Gossip-based Information Dissemination in Pervasive Recommender Systems
+On the Discriminative power of Hyper-parameters in Cross-Validation and How to Choose Them
+Pace My Race: Recommendations for Marathon Running
+PAL: A Position-bias Aware Learning Framework for CTR Prediction in Live Recommender Systems
+PDMFRec: A Decentralised Matrix Factorisation with Tunable User-centric Privacy 
+Performance Comparison of Neural and Non-Neural Approaches to Session-based Recommendation
+Personalized Fairness-aware Re-ranking for Microlending
+Pick & Merge: An Efficient Item Filtering Scheme for Windows Store Recommendations
+Predictability Limits in Session-based Next Item Recommendation
+Predicting Online Performance of Job Recommender Systems With Offline Evaluation
+Predicting User Routines with Masked Dilated Convolutions
+Product Collection Recommendation in Online Retail
+PyRecGym: A Reinforcement Learning Gym for Recommender Systems
+Quick and Accurate Attack Detection in Recommender Systems through User Attributes
+Should we Embed? A Study on the Online Performance of Utilizing Embeddings for Real-Time Job Recommendations
+The Influence of Personal Values on Music Taste: Towards Value-Based Music Recommendations
+Time Slice Imputation for Personalized Goal-based Recommendation in Higher Education
+Traversing Semantically Annotated Queries for Task-oriented Query Recommendation
+User-Centered Evaluation of Strategies for Recommending Sequences of Points of Interest to Groups
+User-Centric Evaluation of Session-Based Recommendations for an Automated Radio Station
+
+
+

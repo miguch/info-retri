@@ -1,0 +1,76 @@
+0
+title:  A Capsule Network for Recommendation and Explaining What You Like and Dislike
+authors:  Chenliang Li, Cong Quan, Peng Li, Yunwei Qi, Yuming Deng and Libing Wu
+keywords:  Recommendation Systems, User Reviews, Deep Learning
+1
+title:  A Collaborative Session-based Recommendation Approach with Parallel Memory Modules
+authors:  Meirui Wang, Pengjie Ren, Lei Mei, Zhumin Chen, Jun Ma and Maarten de Rijke
+keywords:  Collaborative modeling, Session-based recommendation, Memory network
+2
+title:  A Neural Influence Diffusion Model for Social Recommendation
+authors:  Le Wu, Peijie Sun, Richang Hong, Yanjie Fu, Xiting Wang and Meng Wang
+keywords:  social diffusion, social recommendation, influence propagation
+3
+title:  Adversarial Mahalanobis Distance-based Attentive Song Recommender for Automatic Playlist Continuation
+authors:  Thanh Tran, Renee Sweeney and Kyumin Lee
+keywords:  recommendation, memory metric based attention, automatic playlist continuation, mahalanobis distance, adversarial learning
+4
+title:  An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation
+authors:  Chong Chen, Min Zhang, Chenyang Wang, Weizhi Ma, Minming Li, Yiqun Liu and Shaoping Ma
+keywords:  Recommender Systems, Adaptive Transfer Learning, Whole-data based Learning, Social Connections, Implicit Feedback
+5
+title:  Bayesian Personalized Feature Interaction Selection for Factorization Machines
+authors:  Yifan Chen, Pengjie Ren, Yang Wang and Maarten de Rijke
+keywords:  Personalized Feature Interaction Selection, Bayesian Variable Selection, Factorization Machines, Recommender Systems
+6
+title:  CROSS: Cross-platform Recommendation for Social E-Commerce
+authors:  Tzu-Heng Lin, Chen Gao and Yong Li
+keywords:  Recommender Systems, Collaborative Filtering, Social Media
+7
+title:  CTRec: A Long-Short Demands Evolution Model for Continuous-Time Recommendation
+authors:  Ting Bai, Lixin Zou, Xin Zhao, Pan Du, Weidong Liu, Jian-Yun Nie and Ji-Rong Wen
+keywords:  Continuous-Time Recommendation, Long-Short Demands, Demand-Aware Hawkes Process, Self-Attentive Mechanism
+8
+title:  Interact and Decide: Medley of Sub-Attention Networks for Effective Group Recommendation
+authors:  Lucas Vinh Tran, Tuan-Anh Nguyen Pham, Yi Tay, Yiding Liu, Gao Cong and Xiaoli Li
+keywords:  Recommender Systems, Group Recommendation, Collaborative Filtering, Neural Attention Mechanism
+9
+title:  Interpretable Fashion Matching with Rich Attributes
+authors:  Xun Yang, Xiangnan He, Xiang Wang, Yunshan Ma, Fuli Feng, Meng Wang and Tat-Seng Chua
+keywords:  Fashion matching, Information Retrieval, Multimedia Recommendation
+10
+title:  Mention Recommendation in Twitter with Cooperative Multi-Agent Reinforcement Learning
+authors:  Tao Gui, Peng Liu, Qi Zhang, Liang Zhu, Minlong Peng, Yunhua Zhou and Xuanjing Huang
+keywords:  Social Media, Mention Recommendation, Reinforcement Learning
+11
+title:  Neural Graph Collaborative Filtering
+authors:  Xiang Wang, Xiangnan He, Meng Wang, Fuli Feng and Tat-Seng Chua
+keywords:  Collaborative Filtering, Recommendation, Higher-order Connectivity, Embedding Propagation, Neural Recommender Model
+12
+title:  Noise Contrastive Estimation for One-Class Collaborative Filtering
+authors:  Ga Wu, Maksims Volkovs, Chee Loong Soon, Scott Sanner and Himanshu Rai
+keywords:  Linear Recommendation System, Collaborative Filtering, Noise Contrastive Estimation
+13
+title:  Personalized Fashion Recommendation with Visual Explanations based on Multimodal Attention Network
+authors:  Xu Chen, Hanxiong Chen, Hongteng Xu, Yongfeng Zhang, Yixin Cao, Hongyuan Zha and Zheng Qin
+keywords:  Recommender system, Fashion recommendation, Collaborative filtering
+14
+title:  Reinforcement Knowledge Graph Reasoning for Explainable Recommendation
+authors:  Yikun Xian, Zuohui Fu, S. Muthukrishnan, Gerard de Melo and Yongfeng Zhang
+keywords:  Recommendation System, Reinforcement Learning, KnowledgeGraphs, Explainability
+15
+title:  The FacT: Taming Latent Factor Models for Explainability with Factorization Trees
+authors:  Yiyi Tao, Yiling Jia, Nan Wang, Aobo Yang and Hongning Wang
+keywords:  Explainable Recommendation, Decision Tree, Sentiment Analysis, Latent Factor Models
+16
+title:  Transparent, Scrutable and Explainable User Models for Personalized Recommendation
+authors:  Krisztian Balog, Filip Radlinski and Shushan Arakelyan
+keywords:  Recommendation, Transparency, Scrutability
+17
+title:  Unified Collaborative Filtering over Graph Embeddings
+authors:  Pengfei Wang, Hanxiong Chen, Yadong Zhu, Huawei Shen and Yongfeng Zhang
+keywords:  Sequential Recommendation Path, Attention Mechanism, Model Selection
+18
+title:  π-Net: A Parallel Information-sharing Network for Cross-domain Shared-account Sequential Recommendations
+authors:  Muyang Ma, Pengjie Ren, Yujie Lin, Zhumin Chen, Jun Ma and Maarten de Rijke
+keywords:  Cross-domain recommendation, Shared-account recommendation, Sequential recommendation, Transfer modeling
