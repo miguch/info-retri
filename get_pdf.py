@@ -28,7 +28,7 @@ def download(name, url, subName):
         contentType = result.headers['content-type']
         if contentType == 'application/pdf':
             # 下载 pdf
-            with open('papers/%s/%s.pdf'%(subName, name), 'wb') as pdf:
+            with open('papers/%s/%s.pdf'%(subName, name[:-1]), 'wb') as pdf:
                 pdf.write(result.content)
             print('*downloaded*')
             break
@@ -44,7 +44,7 @@ def download(name, url, subName):
             contentType = result.headers['content-type']
             if contentType == 'application/pdf':
                 # 下载 pdf
-                with open('papers/%s/%s.pdf'%(subName, name), 'wb') as pdf:
+                with open('papers/%s/%s.pdf'%(subName, name[:-1]), 'wb') as pdf:
                     pdf.write(result.content)
                 print('*downloaded*')
                 break
@@ -52,11 +52,11 @@ def download(name, url, subName):
 # 并行搜索论文
 def get_data():
     print('***SIGIR***')
-    # sigir = open('SIGIR Links.txt')
-    # for title in sigir:
-    #     url = sigir.readline()
-    #     download(title, url, 'SIGIR')
-    # sigir.close()
+    sigir = open('SIGIR Links.txt')
+    for title in sigir:
+        url = sigir.readline()
+        download(title, url, 'SIGIR')
+    sigir.close()
 
     print('***RecSys***')
     recsys = open('RecSys Links.txt', errors='ignore')
