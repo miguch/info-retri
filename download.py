@@ -3,7 +3,7 @@ import asyncio
 from concurrent.futures import ThreadPoolExecutor
 import requests
 import re
-proxy = 'http://127.0.0.1:1081'
+proxy = 'http://127.0.0.1:8088'
 url = 'https://sci-hub.tw/'
 pdf_pattern = r'<iframe name ="pdf" src = "(.+?)" id = "pdf"></iframe>'
 
