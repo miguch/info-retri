@@ -5,7 +5,7 @@ from PIL import Image
 import requests
 from io import BytesIO
 import re
-proxy = 'http://127.0.0.1:8088'
+proxy = 'http://127.0.0.1:10809'
 captcha_pattern = r'<img id="captcha" src="(.+?)" />'
 id_pattern = r'<input type[ ]?=[ ]?"hidden" name[ ]?=[ ]?"id" value[ ]?=[ ]?"(.+?)">'
 baseUrl = 'https://dacemirror.sci-hub.tw'
