@@ -23,8 +23,12 @@ def showImage(url):
 
 def download(name, url, subName):
     print(name[:-1])
+    if url[:8] != 'https://':
+        url = 'https://' + url[:-1]
+    else:
+        url = url[:-1]
     while True:
-        result = sess.get('https://' + url)
+        result = sess.get(url)
         contentType = result.headers['content-type']
         if contentType == 'application/pdf':
             # 下载 pdf
@@ -40,7 +44,7 @@ def download(name, url, subName):
                 continue
             showImage(baseUrl + captcha_links[0])
             captcha = input('Enter Captcha: ')
-            result = sess.post('https://' + url, {'answer': captcha, 'id': id_str[0]})
+            result = sess.post(url, {'answer': captcha, 'id': id_str[0]})
             contentType = result.headers['content-type']
             if contentType == 'application/pdf':
                 # 下载 pdf
